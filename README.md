@@ -1,4 +1,4 @@
-# Customer-Management Backend Project
+# Twitter Backend Project
 
 This repository contains the codebase for a backend API that manages customer information. The assignment involves implementing various CRUD operations and later extending the functionality in the second phase to synchronize customer data from a remote API.
 
@@ -7,7 +7,7 @@ This repository contains the codebase for a backend API that manages customer in
 The following API endpoints have been implemented in the initial phase:
 In my case i use http://localhost:8080/home then api end point
 
-1. **Create a Customer**
+1. **Create a Customer account **
    - Path: `/api/customers`
    - Method: POST
    - Description: Create a new customer in the system.
